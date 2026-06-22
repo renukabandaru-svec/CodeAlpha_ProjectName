@@ -1,0 +1,7 @@
+hello=Hello! How can I help you?
+hi=Hi! Nice to meet you.
+what is java=Java is a high-level object-oriented programming language.
+what is ai=Artificial Intelligence is the simulation of human intelligence in machines.
+what is machine learning=Machine Learning is a subset of Artificial Intelligence.
+who are you=I am an AI chatbot developed in Java.
+bye=Goodbye! Have a nice day.
